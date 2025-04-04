@@ -14,6 +14,8 @@ The application features a **FastAPI backend** and a **Streamlit frontend**, all
 
 Live Demo: 👉 [Try it on Hugging Face](https://ramonad2024-news-analysis-frontend.hf.space/)
 
+![Architecture Diagram](docs/news_analysis_architecture.png)
+
 ---
 
 ## Features
