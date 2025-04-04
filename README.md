@@ -143,7 +143,10 @@ project-root/
 
 ---
 
-## Setup (Dev or Production)
+## Setup 
+
+git clone https://github.com/ramona1999/NewsAnalyzerAI
+cd NewsAnalyzerAI
 
 ### With Docker Compose
 
