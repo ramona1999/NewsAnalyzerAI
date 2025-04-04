@@ -14,6 +14,16 @@ The application features a **FastAPI backend** and a **Streamlit frontend**, all
 
 Live Demo: 👉 [Try it on Hugging Face](https://ramonad2024-news-analysis-frontend.hf.space/)
 
+## 🧪 Test It Out
+Try searching companies like:
+
+- nginx
+- Tata Consultancy Services
+- Amazon
+- Infosys
+- Google
+- Reliance Industries
+
 ![System Architecture](https://github.com/user-attachments/assets/b803496d-6230-4c7a-b1ec-d95c50eed7bd)
 ---
 
@@ -155,7 +165,11 @@ cd frontend
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 🧪 Access the App
 
+- **Frontend (Streamlit)** → [http://127.0.0.1:8501](http://127.0.0.1:8501)
+
+- **Backend (FastAPI)** → [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 ---
 
 ## Tech Stack
