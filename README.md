@@ -10,7 +10,7 @@ This project is a full-stack, containerized news analysis tool that enables user
 - Comparative reporting in English and Hindi
 - Hindi audio summary generation (playable + downloadable)
 
-The application features a **FastAPI backend** and a **Streamlit frontend**, all deployable via Docker Compose or hosted on **🤗 Hugging Face Spaces**.
+The application features a **FastAPI backend** and a **Streamlit frontend**, all deployable via Docker Compose and also hosted on **🤗 Hugging Face Spaces**.
 
 Live Demo: 👉 [Try it on Hugging Face](https://ramonad2024-news-analysis-frontend.hf.space/)
 
