@@ -1,0 +1,32 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# .env files for storing sensitive keys
+.env
+
+# Audio files
+*.mp3
+*.wav
+
+# Docker-related files
+.docker/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Miscellaneous files
+*.DS_Store
+*.egg-info/
+*.egg
+*.bak
+*.swp
