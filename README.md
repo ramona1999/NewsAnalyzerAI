@@ -17,7 +17,6 @@ Live Demo: 👉 [Try it on Hugging Face](https://ramonad2024-news-analysis-front
 ## 🧪 Test It Out
 Try searching companies like:
 
-- nginx
 - Tata Consultancy Services
 - Amazon
 - Infosys
