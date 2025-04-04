@@ -128,6 +128,19 @@ project-root/
 4. **Comparative Report** – Dual language summary comparison
 5. **Audio Summary** – Hindi TTS of the comparative report (with download option)
 
+   ![Screenshot 2025-04-04 164412](https://github.com/user-attachments/assets/f6683173-06bd-4355-ae50-b89643760212)
+   ![Screenshot 2025-04-04 164505](https://github.com/user-attachments/assets/4319af06-f026-4dc8-8dad-3e920e76b2aa)
+   ![Screenshot 2025-04-04 164628](https://github.com/user-attachments/assets/7afeb1ac-a9d4-4721-9378-1f733222a5bc)
+   ![Screenshot 2025-04-04 164652](https://github.com/user-attachments/assets/f4156492-2814-49e5-abf5-50d4a3168cef)
+   ![Screenshot 2025-04-04 164728](https://github.com/user-attachments/assets/06d73148-afd8-4f34-a6a9-f5dffc4e7790)
+   ![Screenshot 2025-04-04 164750](https://github.com/user-attachments/assets/65c5ca80-3a52-4765-8496-b7154361b20b)
+
+
+
+
+
+
+
 ---
 
 ## Setup (Dev or Production)
